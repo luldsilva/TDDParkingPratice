@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {}
+    "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
         "projectName": "Alura.Estacionamento.Testes",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento.Testes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
-                "projectPath": "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj"
+              "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
+                "projectPath": "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento\\Alura.Estacionamento.csproj"
               }
             }
           }
@@ -71,7 +71,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -80,18 +81,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
         "projectName": "Alura.Estacionamento",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -125,16 +126,23 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lAE+gDCpCZtWYo1RDMNJqnVGihDIcLyGVd7AXiWOYYOgc+YthXja0Hqo6TbTQ7VIhSuxNaCyfV/KwBfElyqisw==",
+  "dgSpecHash": "JM9ZBM0hM19vVf3EaBrpu4DMh4DJo+7GfCYToBRRaHQ9nAg+4avl01KVgyKSApZHb6LAlMEI5LePxSnmAYVf8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

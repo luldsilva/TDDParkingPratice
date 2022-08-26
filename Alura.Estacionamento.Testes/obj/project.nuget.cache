@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AEPBFLipSYypgpSr4PeX/5VObxAOhhMf5V97/d5Iet5yr7yUGBCTFtLgQkLGa3VcBq0yyEcqT/N2TStxI8T9Jw==",
+  "dgSpecHash": "SjrF/t/iPRKsJK2EhS3hmanHT38WC0sShvDoyhQ1AEBvcFbGMIFyupIlq9wyoco0FtsRj6/045k4pTHxArmZoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\TDDParkingPratice\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
